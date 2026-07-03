@@ -29,3 +29,5 @@ wsl.exe --install -d Ubuntu
 After the installation is done, you will need to create a user account and password for your newly installed Linux distribution.
 > Author's note: For those who enjoy creating problems for themselves: If you type random gibberish when it asks for password creation, the installer will kindly insist that you prove you meant it by typing it again. Just press **Enter** if you want a fresh start.
 
+> For installing Docker, use this guide: https://daniel.es/blog/how-to-install-docker-in-wsl-without-docker-desktop/#4-install-docker-directly-in-wsl
+
